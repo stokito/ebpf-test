@@ -2,6 +2,8 @@
 
 eBPF application that parses HTTP packets and extracts (and prints on screen) the URL contained in the GET/POST request.
 
+The code was improved and merged into [bcc](https://github.com/iovisor/bcc/tree/master/examples/networking/http_filter)
+
 [eBPF HTTP Filter - Short Presentation](ebpf_http_filter-short.pdf)
 
 ## Usage Example
